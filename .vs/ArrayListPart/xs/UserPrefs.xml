@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{0140E52D-A2E2-43C8-A034-4577C759E1F7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ArrayList/Program.cs">
+    <Files>
+      <File FileName="ArrayList/Program.cs" Line="11" Column="49" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ArrayListPart" expanded="True" selected="True">
+            <Node name="ArrayList" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ArrayListPart FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

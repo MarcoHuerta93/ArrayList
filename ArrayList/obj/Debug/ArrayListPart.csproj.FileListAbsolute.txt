@@ -1,0 +1,6 @@
+/Users/marcohuerta/Projects/ArrayList/ArrayList/bin/Debug/ArrayList.exe
+/Users/marcohuerta/Projects/ArrayList/ArrayList/bin/Debug/ArrayList.pdb
+/Users/marcohuerta/Projects/ArrayList/ArrayList/obj/Debug/ArrayListPart.csproj.AssemblyReference.cache
+/Users/marcohuerta/Projects/ArrayList/ArrayList/obj/Debug/ArrayListPart.csproj.CoreCompileInputs.cache
+/Users/marcohuerta/Projects/ArrayList/ArrayList/obj/Debug/ArrayList.exe
+/Users/marcohuerta/Projects/ArrayList/ArrayList/obj/Debug/ArrayList.pdb
